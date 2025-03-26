@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll",
+    "test:test5": "jest --testPathPattern=unit-jest-5.test.js"
+  },
+  "type": "module"
+}
